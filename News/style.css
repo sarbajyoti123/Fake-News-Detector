@@ -1,0 +1,7 @@
+body,h1,h3,h4,p{
+  font-family: 'Poppins',sans-serif;
+}
+.news-feed:hover{
+  transform: translateY(-5px);
+  transition: 0.7s;
+}
