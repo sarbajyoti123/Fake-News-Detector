@@ -1,4 +1,4 @@
-"# Fake-News-Detector-" 
+"# Fake-News-Detector using Linear Regression and Recurrent Neural Network" 
 
 
 ![Screenshot (462)](https://user-images.githubusercontent.com/44479743/128063457-a08cdc54-0233-4bb7-b27c-058a55ff37e7.png)
