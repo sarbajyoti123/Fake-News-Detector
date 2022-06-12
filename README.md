@@ -1,4 +1,6 @@
-"# Fake-News-Detector using Linear Regression and Recurrent Neural Network" 
+"# Fake-News-Detector using Linear Regression and Recurrent Neural Network" <br>
+
+Its an Artificial Intelligence based Fake News Detector Website. In where ou have to put any News heading and after click on analyze it will show you that its a real news or a Fake News 
 
 
 ![Screenshot (462)](https://user-images.githubusercontent.com/44479743/128063457-a08cdc54-0233-4bb7-b27c-058a55ff37e7.png)
